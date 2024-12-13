@@ -3,10 +3,6 @@
 
 Hello! I'm a current MSCS student at NYU's Courant Institute, deeply rooted in the AI field with a strong background in deep learning, machine learning, reinforcement learning, and data science. I have an unwavering curiosity about the limits of human and machine intelligence, sparked by the historic victory of Alpha GO.
 
-## Education Journey 🎓
-
-I chose Computer Science as my major in college, spurred by the excitement of AI advancements. My undergraduate studies at Wenzhou Kean University were packed with rigorous mathematics and programming training. I delved into courses like **STATISTICAL DATA MINING** and **INDEPENDENT STUDY IN COMPUTER INFO SYS**, gaining a firm grasp on algorithms through classes such as **ANALYSIS OF ALGORITHMS** and **APPLIED ALGORITHMS & DATA STRUCTURES**.
-
 ## Research and Projects 🧠
 
 ### Published Papers:
